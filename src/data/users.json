@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "email": "fahadnoor6677@gmail.com",
+    "newpass": "123",
+    "password": "$2b$12$VleKpjLaeAa2e00naL5l3OufZfw.lqBCxH3ZpjjXAr23U6vPHjei.",
+    "name": "fahad"
+  },
+  {
+    "id": 2,
+    "email": "karachi@gamail.com",
+    "newpass": "123123",
+    "password": "$2b$12$3k95gT.loy4xL/ltzq7kpeh5V.JYgSu0FN8OokFoVNayi1Df/wXgS",
+    "name": "Ubaid"
+  }
+]
